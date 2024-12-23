@@ -2,7 +2,7 @@
 
 Effective Date: 1/01/2024
 
-# Mao Zedong values your privacy. This Privacy Policy explains how we collect, use, and protect your information while using the Bot.
+Mao Zedong values your privacy. This Privacy Policy explains how we collect, use, and protect your information while using the Bot.
 
 ## 1. Information We Collect
 
