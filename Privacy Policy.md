@@ -1,4 +1,4 @@
-Privacy Policy
+# Privacy Policy
 
 Effective Date: 1/01/2024
 
