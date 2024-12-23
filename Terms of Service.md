@@ -1,4 +1,5 @@
 # Terms of Service
+Effective Date: 1/01/2024
 
 By using our Discord bot , you agree to these Terms of Service ("Terms"). If you do not agree, please do not use the Bot.
 
